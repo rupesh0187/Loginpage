@@ -18,7 +18,7 @@ namespace Loginpage.Controllers
         string mailTitle = "Attachment Demo";
         string mailSubject = "Email with Attachment";
         string fromEmail = "ranjanrupesh0187@gmail.com";
-        string mailPassword = "zrvb rjdm ynox gxql";
+       
 
 
         public IActionResult Upload()
